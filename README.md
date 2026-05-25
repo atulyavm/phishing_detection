@@ -174,7 +174,7 @@ The project successfully detects phishing websites using trained machine learnin
 ## 👩‍💻 Developed By
 
 Atulya Mishra
-
+Gunjan Balapure
 ---
 
 ## 📄 License
